@@ -14,9 +14,7 @@ layout: default
 
 <br>
 
-* segfaesr
-* sdesetgwse
-* mninoinp
+{%include 04-links.md %}
 
 <br>
 
