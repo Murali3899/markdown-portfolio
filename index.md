@@ -14,7 +14,9 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+* segfaesr
+* sdesetgwse
+* mninoinp
 
 <br>
 
